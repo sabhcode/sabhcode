@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Streami App
+- 🔭 I’m currently working on Rien
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Streali
 - 🤔 I’m looking for help with Python
